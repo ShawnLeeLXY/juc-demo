@@ -1,4 +1,4 @@
-package com.lxy.itc;
+package com.lxy.itc.sync;
 
 class Share {
 
